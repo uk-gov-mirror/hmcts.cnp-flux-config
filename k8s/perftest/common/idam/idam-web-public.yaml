@@ -24,7 +24,7 @@ spec:
       aadIdentityName: idam
       environment:
         STRATEGIC_SERVICE_URL: https://idam-api.perftest.platform.hmcts.net
-        DUMMY_ENV_VAR_TO_TRIGGER_POD_RESTART: "27022020_01"
+        DUMMY_ENV_VAR_TO_TRIGGER_POD_RESTART: "2020_09_04_1050"
         LOGGING_LEVEL_ORG_SPRINGFRAMEWORK_SECURITY: DEBUG
         GA_TRACKING_ID: "UA-122164129-3"
     global:
