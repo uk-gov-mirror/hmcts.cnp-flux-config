@@ -11,6 +11,7 @@ metadata:
 spec:
   values:
     java:
+      memoryLimits: "1024Mi"
       environment:
         CRIME_ENABLED: "true"
         PCQ_ENABLED: "true"
