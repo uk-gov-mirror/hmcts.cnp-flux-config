@@ -13,3 +13,4 @@ spec:
         # Does what it says on the tin - if this changes then prod should redeploy
         CHANGE_TO_REDEPLOY_PROD: 20260324
         PROBATE_GS_ENABLED: true
+        PROBATE_WA_ENABLED: true
